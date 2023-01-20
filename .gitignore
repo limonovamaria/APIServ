@@ -1,3 +1,4 @@
 **/.idea/
 src/__pycache__/
 git rm -r --cached */tokens.txt
+git rm -r --cached .idea */.idea
